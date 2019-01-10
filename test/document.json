@@ -1,0 +1,89 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "34C6557B-C8DC-403D-B441-774D173DCE7A",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "52.5",
+    "build": 67469,
+    "version": 112
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo": {
+      "connected_kit": {
+        "kit_uuid": "2ECE4DB0-F296-45AF-98CF-C77141A19DF4",
+        "space_id": "95905",
+        "version": 0
+      },
+      "first_version": 118,
+      "min_version": 84,
+      "storage": {
+        "hashes": {
+          "colors": {
+          },
+          "layerStyles": {
+          },
+          "layers": {
+          },
+          "symbols": {
+          },
+          "textStyles": {
+          }
+        },
+        "skipped": [
+        ],
+        "sync": {
+          "colors": {
+          },
+          "layerStyles": {
+          },
+          "layers": {
+            "01C2F6C9-9261-434A-879A-4452645936A8": "BAD8202E-8CDF-44C3-830B-79645443FFB5",
+            "103D62F6-9703-40A3-900D-A6B17C5C8FD5": "BF3B3F58-995C-4FF7-A5FB-E39595D06765",
+            "14DD78FD-5EC4-4B2A-887A-2174649E5BB8": "82C0AEC0-FFB6-493B-AC5A-5D86D3D67FBE",
+            "2130DAE5-FD03-4A4F-88C5-49AB18EE091B": "0F7EF751-1CCA-4701-9558-65974232E80B",
+            "36E91654-1605-48E0-AC54-7D5FD51C2A4C": "C12F00E1-6025-4045-8604-D02A274270E4",
+            "8C3981C5-EF5E-4C86-9F3C-F99B854BAAD2": "4FC9809E-A57D-4FCC-A619-E90DA9563947",
+            "91ED9BBD-EF3B-4825-AF9B-FE0A397217DF": "9333229E-4D87-416A-B4D9-4E6DD9B9DF5A",
+            "B5064C54-F8DA-4000-B2E0-0CBEE57369F6": "D6C36A19-395E-40F9-BC3F-0B14D480A26B"
+          },
+          "symbols": {
+          },
+          "textStyles": {
+          }
+        }
+      },
+      "version": 118
+    }
+  }
+}
