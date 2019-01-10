@@ -28,7 +28,7 @@
     "y": 165
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +61,10 @@
     {
       "class": "rectangle",
       "id": "C12F00E1-6025-4045-8604-D02A274270E4"
+    },
+    {
+      "class": "rectangle",
+      "id": "D6C36A19-395E-40F9-BC3F-0B14D480A26B"
     }
   ],
   "name": "Artboard",
@@ -76,6 +80,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

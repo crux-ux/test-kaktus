@@ -19,8 +19,8 @@
     "constrainProportions": false,
     "height": 182,
     "width": 262,
-    "x": 320,
-    "y": 17
+    "x": 74,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -127,6 +127,10 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "datasupplier.key": "Tiles"
   }
 }

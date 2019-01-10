@@ -21,8 +21,8 @@
     "do_objectID": "74847C17-B9D0-4B4F-BF99-1741AD12FC65",
     "height": 242,
     "width": 269,
-    "x": 1,
-    "y": 0
+    "x": 545,
+    "y": -224
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -130,6 +130,10 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.invision.prototype": {
       "backgroundOpacity": 0,
       "closeOnClickOutside": 1,

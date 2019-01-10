@@ -71,6 +71,10 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.invision.prototype": {
       "lastUsedGestureID": 0
     }

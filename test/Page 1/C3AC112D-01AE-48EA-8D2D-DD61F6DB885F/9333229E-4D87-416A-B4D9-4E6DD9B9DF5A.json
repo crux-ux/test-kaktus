@@ -127,6 +127,10 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.invision.prototype": {
       "backgroundOpacity": 0,
       "closeOnClickOutside": 1,

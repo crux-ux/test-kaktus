@@ -28,7 +28,7 @@
     "y": -98
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,10 +46,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "D6C36A19-395E-40F9-BC3F-0B14D480A26B"
-    }
   ],
   "name": "Artboard Copy 2",
   "nameIsFixed": false,
@@ -64,6 +60,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
